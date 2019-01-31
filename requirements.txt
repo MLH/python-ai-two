@@ -1,0 +1,7 @@
+Flask==1.0.2
+Flask_SocketIO==3.1.1
+markovify==0.7.1
+tweepy==3.7.0
+python-dotenv==0.10.1
+gevent-websocket
+eventlet 
